@@ -3,6 +3,8 @@
 
 https://www.pcbway.com/project/shareproject/_PICOmputer____World_first_Raspberry_RP2040_PICO___QWERTY___IPS_devkit.html
 
+**FIRST - Video presentation**
+
 [![Presentation](https://img.youtube.com/vi/pJGlxj9I5Sg/0.jpg)](https://www.youtube.com/watch?v=pJGlxj9I5Sg)
 
 **FEATURES:**
